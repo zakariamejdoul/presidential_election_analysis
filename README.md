@@ -1,1 +1,3 @@
 # presidential_election_analysis
+
+>The subject of our analysis applies to the study of the results of the 2017's French presidential elections according to each department and thus to study with the R the behavior of the voters of each department according to the data freely downloadable on the government website [data.gouv.fr](https://www.data.gouv.fr/fr/). We will apply a correspondence analysis on a contingency table which will be made up of two qualitative variables : The candidates and the departments. We must prove a form of dependence between the two variables and apply the CA analysis over the data matrix using the "FactoMineR" package from R.
